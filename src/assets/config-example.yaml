@@ -12,7 +12,7 @@ catalog:
   path: assets/petstore.yaml
 - title: Pet Store v2
   path: assets/petstore2.yaml
-readOnly: true
+readOnly: false
 licenseLink: 3rdpartylicenses.txt
 termsOfUseLink: https://example.com/terms/
 imprintLink: https://example.com/imprint/
